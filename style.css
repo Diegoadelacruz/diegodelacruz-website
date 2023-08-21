@@ -6,3 +6,8 @@ img{
     h1,h2 {
         text-align: center;
       }
+  
+      .responsive {
+        width: 200px;
+        height: 200px;
+      }

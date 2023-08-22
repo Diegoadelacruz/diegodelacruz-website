@@ -1,13 +1,35 @@
-img{
-    display:block;
-    margin:auto;
-    }
+.nav {
+  background-color: #FFF;
+}
 
-    h1,h2 {
-        text-align: center;
-      }
-  
-      .responsive {
-        width: 200px;
-        height: 200px;
-      }
+.nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+.main {
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.footer{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.responsive {
+  width: 200px;
+  height: 200px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
